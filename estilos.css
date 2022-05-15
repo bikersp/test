@@ -2,4 +2,7 @@ body{
   background-color: green;
   text-color: blue;
 }
-
+header{
+  font-size: 24px;
+  text-color: orange;
+}
